@@ -1,0 +1,11 @@
+node_modules/
+server/node_modules/
+server/claimtrack.db
+server/claimtrack.db-shm
+server/claimtrack.db-wal
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.local
+npm-debug.log*
